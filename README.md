@@ -12,7 +12,9 @@ a,b       //these are the edges
 
 2,0      //final states
 
-0,a,0    //the connections between states, where the first element is the current state, second the connector/edge and third the resulting state. f1(2)=3
+0,a,0    //the connections between states, where the first element is the current state, 
+
+         //second the connector/edge and third the resulting state. f1(2)=3
 
 0,a,1
 
