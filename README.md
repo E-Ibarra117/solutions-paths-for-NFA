@@ -4,8 +4,7 @@ This is a school assigment that i want to share, it has limitations and areas to
 This program is capable of printing all the solution paths for a given non deterministic finite automata, the automaton must be written in .txt file 
 with the next format in order to work as intended:
 
-0,1,2     //these are the states
-
+0,1,2     //these are the states \n
 a,b       //these are the edges
 
 0         //initial state
