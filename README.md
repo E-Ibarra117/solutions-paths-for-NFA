@@ -5,13 +5,9 @@ This program is capable of printing all the solution paths for a given non deter
 with the next format in order to work as intended:
 
 0,1,2     //these are the states
-
 a,b       //these are the edges
-
 0         //initial state
-
 2,0      //final states
-
 0,a,0    //the connections between states, where the first element is the current state, second the connector/edge and third the resulting state. f1(2)=3
 0,a,1
 0,b,0
