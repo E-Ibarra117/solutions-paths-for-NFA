@@ -6,21 +6,26 @@ bruh
 |                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 |                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-#### visualizarDatos
-Actores participantes: 
+## visualizarDatos
+### Actores participantes: 
 Iniciado por OperadorCM
 comunicacion con EnlaceDatos
 
-Flujo de eventos: 
+### Flujo de eventos: 
 1. OperadorCM selecciona la UI de visualizcion.
-	2. El sistema lee el paquete de telemetria enviado por EnlaceDatos.
-	3. Extrae los datos de telemetria y lo estructura en el formato correcto para la visualizacion.
-	4. Actualiza los elementos del UI.
-	5. Utiliza los datos necesarios para actualizar el mapa.
-Condición de entrada: 
+
+3. El sistema lee el paquete de telemetria enviado por EnlaceDatos.
+
+5. Extrae los datos de telemetria y lo estructura en el formato correcto para la visualizacion.
+
+7. Actualiza los elementos del UI.
+
+1. Utiliza los datos necesarios para actualizar el mapa.
+
+### Condición de entrada: 
 VA sincronizado
 
-Condiciones de salida: 
+### Condiciones de salida: 
 el OperadorCM cambia de UI
 
-Requerimientos de calidad:
+### Requerimientos de calidad:
