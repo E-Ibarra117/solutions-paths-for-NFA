@@ -29,3 +29,4 @@ VA sincronizado
 el OperadorCM cambia de UI
 
 ### Requerimientos de calidad:
+lol
